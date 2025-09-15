@@ -5,7 +5,7 @@
 
 ### IO
 - [ ] 메시지를 출력한다.
-- [ ] 사용자 입력을 받는다.
+- [x] 사용자 입력을 받는다.
   - `Camp.nextstep.edu.missionutils.Console`의 `readLine()`을 활용한다.
 - [ ] 잘못된 값을 입력할 경우 예외를 발생시키고 그 부분부터 입력을 다시 받는다.
   - `IllegalArgumentException`
