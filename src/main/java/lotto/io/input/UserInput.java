@@ -8,7 +8,7 @@ public class UserInput {
         return inputFrom(GuideMessage.FOR_MONEY);
     }
 
-    public static String luckyNumber() {
+    public static String winningNumbers() {
         return inputFrom(GuideMessage.FOR_LUCKY_NUMBER);
     }
 
